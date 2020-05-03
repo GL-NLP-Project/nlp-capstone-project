@@ -1,0 +1,2 @@
+# excluding the checkpoints
+*.ipynb_checkpoints
